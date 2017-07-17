@@ -2376,8 +2376,8 @@ math-expression-evaluator@^1.2.14:
   resolved "https://registry.yarnpkg.com/math-expression-evaluator/-/math-expression-evaluator-1.2.17.tgz#de819fdbcd84dccd8fae59c6aeb79615b9d266ac"
 
 mdi-vue@^0.2.5:
-  version "0.2.5"
-  resolved "https://registry.yarnpkg.com/mdi-vue/-/mdi-vue-0.2.5.tgz#132fb905da991bb5d2861db0dc1df7b91f5fbf1a"
+  version "0.2.6"
+  resolved "https://registry.yarnpkg.com/mdi-vue/-/mdi-vue-0.2.6.tgz#8d627a48a17dfb0c8e448456a8b54d5e2727b86f"
 
 media-typer@0.3.0:
   version "0.3.0"
