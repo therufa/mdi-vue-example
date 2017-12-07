@@ -4,18 +4,21 @@
       mdi vue icons
     </div>
     <mdi-coin-icon />
-    <mdi-coins-icon />
+    <coins-icon />
     <mdi-xbox-controller-battery-full-icon />
   </div>
 </template>
 
 <script>
 import 'mdi-vue/XboxControllerBatteryFullIcon'
-import 'mdi-vue/CoinIcon'
+import CoinIcon from 'mdi-vue/CoinIcon'
 import 'mdi-vue/CoinsIcon'
 
 export default {
   name: 'app',
+  component: {
+    CoinIcon,
+  }
 }
 </script>
 
